@@ -10,8 +10,8 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation and setup to run application
 1. Clone the repository to your local machine or download Zip
-2. Install project dependencies:
-3. Start the application by running the following command:
+2. Install project dependencies: npm install
+3. Start the application by running the following command: npm start
 
 ## API Documentation
 
